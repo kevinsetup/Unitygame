@@ -33,7 +33,7 @@ else
 	
 	# Esto nos pedira el mensaje del commit
 	echo "Introduce el mensaje del commit:"
-	git commit -a -m "hola"
+	git commit -a -m "sss"
 
 	# Y terminamos subiendo los archivos
 	git push origin master
