@@ -34,7 +34,7 @@ else
 	# Esto nos pedira el mensaje del commit
 	echo "Introduce el mensaje del commit:"
 	read TXT
-	git commit -m "$TXT"
+	git commit -m "SUbida del dia"
 
 	# Y terminamos subiendo los archivos
 	git push origin master
